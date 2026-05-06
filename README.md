@@ -57,7 +57,8 @@ Einfach `index.html` im Browser öffnen — kein Server, keine Installation nöt
 
 ---
 
-## 👨‍💻 Autor
+## 👤 Autor
 
-**Sobhan Haerizadeh**  
-[Portfolio ansehen](../)
+**Sobhan Haerizadeh**
+🌐 [sobhanhaerizadeh.de](https://sobhanhaerizadeh.de)
+🐙 [github.com/Sobhanhaerizadeh](https://github.com/Sobhanhaerizadeh)
