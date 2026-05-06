@@ -4,6 +4,9 @@ Ein einfaches Zwei-Spieler-Würfelspiel gebaut mit HTML, CSS und Vanilla JavaScr
 
 ## 📸 Vorschau
 
+<img width="1374" height="637" alt="image" src="https://github.com/user-attachments/assets/20fcc57b-6cc5-45ae-8000-3cf73c82e4de" />
+
+
 Zwei Spieler werfen gleichzeitig einen Würfel — wer die höhere Zahl hat, gewinnt die Runde und bekommt einen Punkt. Der Punktestand wird über mehrere Runden gespeichert.
 
 ---
